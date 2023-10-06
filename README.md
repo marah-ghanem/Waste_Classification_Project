@@ -28,7 +28,7 @@ This project utilizes a fine-tuned VGG16-based CNN model to classify waste mater
 - Dense layers with 1024, 512, 256, 512, and 512 filters, respectively
 - Activation layers (ReLU)
 The final output layer is a single neuron with a sigmoid activation function for binary classification.
-You can access the last Traiend Weghit on <a href="https://drive.google.com/file/d/1wKwE6cZ2NBds73MqQcX8cLRqLCrKRiZO/view?usp=sharing" target="blank">Weghit</a>
+You can access the last Traiend Weight on <a href="https://drive.google.com/file/d/1wKwE6cZ2NBds73MqQcX8cLRqLCrKRiZO/view?usp=sharing" target="blank">Drive</a>
 # Dataset
 Problem: Waste management challenges, including landfill overflow and pollution.
 Approach: Analyzed waste components, segregated into Organic and Recyclable using IoT and ML.
