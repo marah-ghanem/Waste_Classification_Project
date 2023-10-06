@@ -7,9 +7,8 @@ This project aims to classify waste images into two categories: Organic and Recy
 - [Problem Statement](#ProblemStatement)
 - [Model Overview](#ModelOverview)
 - [Dataset](#Dataset)
-- [Model Architecture](#ModelArchitecture)
 - [Results](#Results)
-- [License](#License)
+- [Demo](#Demo)
 
 # Introduction
 
@@ -42,4 +41,4 @@ You can access the complete dataset on <a href="https://www.kaggle.com/datasets/
 The model achieved impressive accuracy in classifying waste images. Here are some sample results:
 
 
-
+# Demo
