@@ -1,5 +1,3 @@
-# Waste_Classification_Project
-
 # Waste Classification with VGG16
 
 This project aims to classify waste images into two categories: Organic and Recycle waste using a pre-trained VGG16 model fine-tuned for the task.
@@ -37,7 +35,7 @@ The final output layer is a single neuron with a sigmoid activation function for
 Problem: Waste management challenges, including landfill overflow and pollution.
 Approach: Analyzed waste components, segregated into Organic and Recyclable using IoT and ML.
 Implementation: Dataset split - 85% training (22,564 images) and 15% testing (2,513 images).
-You can access the complete dataset on Kaggle <a href="https://www.kaggle.com/datasets/techsash/waste-classification-data" target="blank"></a>.
+You can access the complete dataset on <a href="https://www.kaggle.com/datasets/techsash/waste-classification-data" target="blank">Kaggle</a>.
 
 
 
