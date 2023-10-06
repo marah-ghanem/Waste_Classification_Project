@@ -38,6 +38,10 @@ Implementation: Dataset split - 85% training (22,564 images) and 15% testing (2,
 You can access the complete dataset on <a href="https://www.kaggle.com/datasets/techsash/waste-classification-data" target="blank">Kaggle</a>.
 
 
+# Results
+The model achieved impressive accuracy in classifying waste images. Here are some sample results:
 
+Organic Waste: Example Image
+Recycle Waste: Example Image
 
 
