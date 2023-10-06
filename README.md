@@ -6,10 +6,10 @@ This project aims to classify waste images into two categories: Organic and Recy
 - [Introduction](#introduction)
 - [Problem Statement](#ProblemStatement)
 - [Model Overview](#ModelOverview)
-- [Dataset]
-- [Model Architecture]
-- [Results]
-- [License]
+- [Dataset](#Dataset)
+- [Model Architecture](#ModelArchitecture)
+- [Results](#Results)
+- [License](#License)
 
 # Introduction
 
