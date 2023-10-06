@@ -41,7 +41,5 @@ You can access the complete dataset on <a href="https://www.kaggle.com/datasets/
 # Results
 The model achieved impressive accuracy in classifying waste images. Here are some sample results:
 
-Organic Waste: Example Image
-Recycle Waste: Example Image
 
 
