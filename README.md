@@ -11,15 +11,15 @@ This project aims to classify waste images into two categories: Organic and Recy
 - [Results]
 - [License]
 
-## Introduction
+# Introduction
 
 Waste Classification is a computer vision project that leverages a VGG16-based deep learning model to classify waste images. The project focuses on distinguishing between Organic and Recycle waste, making it a valuable tool for waste management and environmental initiatives.
 
-## Problem Statement
+# Problem Statement
 
 The waste classification problem is a critical aspect of waste management. Properly identifying and classifying waste materials can help in recycling and disposal processes, reducing environmental impact.
 
-## Model Overview
+# Model Overview
 
 This project utilizes a fine-tuned VGG16-based CNN model to classify waste materials. The model architecture includes custom dense layers with batch normalization, ReLU activation, and dropout layers to improve performance. Here's a brief overview of the model architecture:
 
@@ -31,7 +31,7 @@ This project utilizes a fine-tuned VGG16-based CNN model to classify waste mater
 - Activation layers (ReLU)
 The final output layer is a single neuron with a sigmoid activation function for binary classification.
 
-## Dataset
+# Dataset
 Problem: Waste management challenges, including landfill overflow and pollution.
 Approach: Analyzed waste components, segregated into Organic and Recyclable using IoT and ML.
 Implementation: Dataset split - 85% training (22,564 images) and 15% testing (2,513 images).
