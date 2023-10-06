@@ -3,9 +3,9 @@
 This project aims to classify waste images into two categories: Organic and Recycle waste using a pre-trained VGG16 model fine-tuned for the task.
 
 ## Table of Contents
-- [Introduction]
-- [Problem Statement]
-- [Model Overview]
+- [Introduction](#introduction)
+- [Problem Statement](#ProblemStatement)
+- [Model Overview](#ModelOverview)
 - [Dataset]
 - [Model Architecture]
 - [Results]
