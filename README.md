@@ -38,7 +38,29 @@ You can access the complete dataset on <a href="https://www.kaggle.com/datasets/
 
 
 # Results
-The model achieved impressive accuracy in classifying waste images. Here are some sample results:
+The model achieved impressive accuracy in classifying waste images. 
+
+### Training Performance
+- **Loss:** 0.1450
+- **AUC (Area Under the Curve):** 0.9865
+
+### Validation Performance
+- **Loss:** 0.3357
+- **AUC (Area Under the Curve):** 0.9517
+
+### Test Performance
+- **Loss:** 0.2976
+- **AUC (Area Under the Curve):** 0.9559
+
+#### Interpretation
+- The training results show a low loss and high AUC, indicating that the model learned well from the training data.
+- The validation performance, while slightly lower than training, still shows good model generalization.
+- The test results, with a loss of 0.2976 and AUC of 0.9559, demonstrate the model's ability to perform well on new, unseen data.
+
+These results suggest that the model is effective in classifying waste materials, reducing landfill waste and potential environmental issues.
 
 
-# Demo
+
+
+
+
